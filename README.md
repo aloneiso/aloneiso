@@ -1,8 +1,12 @@
 # Rishi (aloneiso)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ4dG1paTRyZ3F5Y29mZnZheXNvY2k2a3RrdXZ0Mm16M2V2YWRxZi9kczBkMzJjY2J5Y3ZxN2Rha2l2NTM3b2ZlOC9giphy.gif" width="420" alt="game loop" />
-  <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="220" alt="neon glitch" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+ (aloneiso)
+
+<p align="center">
+
 </p>
 
 [![typing](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono\&size=22\&duration=2600\&pause=700\&color=ffffff\&center=true\&vCenter=true\&width=900\&height=44\&lines=Rishi+|+Learning+step+by+step;Python+first+%7C+weird+langs+for+fun)](https://git.io/typing-svg)
@@ -93,7 +97,7 @@ GitHub: [https://github.com/aloneiso](https://github.com/aloneiso)
 YouTube: [https://www.youtube.com/@isoenthalp](https://www.youtube.com/@isoenthalp)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ9s2ZCwLwOZy/giphy.gif" width="640" alt="pixel wave" />
+
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p>
