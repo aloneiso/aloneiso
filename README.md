@@ -1,72 +1,92 @@
-# Rishi — `aloneiso`
+# Rishi (aloneiso)
 
-[![typing](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono\&size=28\&duration=3000\&pause=800\&color=ffffff\&center=true\&vCenter=true\&width=800\&height=50\&lines=Rishi+%7C+Systems-minded+Student;Mastering+pointers+%26+memory;Automation+%7C+Minimal+repos)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono\&size=26\&duration=2800\&pause=700\&color=ffffff\&center=true\&vCenter=true\&width=800\&height=40\&lines=Rishi+|+Learning+coding+step+by+step;Keeping+things+simple+and+real)](https://git.io/typing-svg)
 
-> Student • Developer • Systems thinker
+## About me
 
----
+I'm Rishi, 17. I'm learning coding at my own pace and keeping things simple. I don't try to act like a pro. I just focus on getting better slowly. Most of what I do comes from daily life: studying, talking with friends, trying things, messing up, and improving.
 
-### Snapshot
+## My developer journey
 
-* **Name:** Rishi (`aloneiso`)
-* **Location:** Prayagraj, Uttar Pradesh
-* **Age:** 17
-* **GitHub:** [https://github.com/aloneiso](https://github.com/aloneiso)
-* **YouTube:** `@isoenthalp`
+I started coding because I wanted to understand how things actually work. Nothing fancy. Just basics done properly.
 
----
+Right now I'm mainly learning:
 
-### What I actually do
+* C++ basics like pointers and memory
+* Python for small scripts and automation
+* JavaScript for simple web work
 
-* Build compact automation tools that remove boring work
-* Practice C++ (pointers & memory), competitive problems, and low-level debugging
-* Ship small, documented repositories that anyone can run
+I prefer writing small, clean things instead of big, confusing projects.
 
----
+## How I work
 
-### Skillset
+I keep my routine simple:
 
-**Languages**: C++ · Python · JavaScript
+* Practice C++ a little every day
+* Solve easy problems to build logic
+* Make tiny scripts whenever I feel like it
+* Keep things clean and understandable
 
-**Frontend / UI**: HTML · CSS · React
+## My circle (friends & real life)
 
-**Systems / DevOps**: Linux · Docker · Node.js
+I believe real friends are very few. 2 to 5 people. Anything more than that becomes drama and wasted time. I prefer keeping only the people who actually matter.
 
-**Tooling**: Git · VS Code · Terminal · Vim
+A lot of my growth comes from real conversations, arguments, support, and learning with my close friends. Nothing fake or exaggerated.
 
----
+## What I focus on
 
-### Real focus (short & sharp)
+* Understanding the basics properly
+* Improving a little every day
+* Staying consistent instead of chasing shortcuts
+* Keeping life and work clean and minimal
 
-1. Mastering pointers, ownership, and memory-safety in C++
-2. Clean, reproducible repo structure (scripts → tests → docs)
-3. Small automation that saves time (cron scripts, dev tooling)
+## My stack
 
----
+### Coding
 
-### How to collaborate
+<div align="center">
 
-* Open an issue or pull request on GitHub
-* Small wins: scripts with clear `README.md` and a test command
-* I respond best to concrete asks (reproduce steps + expected result)
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
+<img src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white" height="40" />
 
----
+</div>
 
-### Goals (next 6–12 months)
+### Frontend & UI
 
-* Read and implement 3 memory-system patterns in C++ projects
-* Build a micro-tool that automates a repetitive workflow (→ VAULT-ready)
-* Reach consistent daily problem-solving (30–60 min)
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" />
 
-### Contact
+</div>
 
-* GitHub: [https://github.com/aloneiso](https://github.com/aloneiso)
-* YouTube: [https://www.youtube.com/@isoenthalp](https://www.youtube.com/@isoenthalp)
+### Tools I use
 
----
+<div align="center">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" />
+
+</div>
+
+### Music & Apps
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+
+</div>
+
+## Links
+
+GitHub: [https://github.com/aloneiso](https://github.com/aloneiso)
+YouTube: [https://www.youtube.com/@isoenthalp](https://www.youtube.com/@isoenthalp)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/> </p>
-
-*If you want a fully GitHub-ready `README.md` with dynamic badges or a compact one-file version for your repo, I can export it directly to a paste-ready file.*
