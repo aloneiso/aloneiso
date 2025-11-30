@@ -27,6 +27,7 @@ Not professional, not trying to look pro. Just improving every week.
 <img src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white" height="32" />
 <img src="https://img.shields.io/badge/Nim-FEDE5D?style=for-the-badge&logo=nim&logoColor=000000" height="32" />
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="32" />
 
 </div>
 
@@ -35,6 +36,8 @@ Not professional, not trying to look pro. Just improving every week.
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" height="32"/>
+
+</div>
 
 </div>
 
