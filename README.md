@@ -3,13 +3,22 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
- (aloneiso)
 
-<p align="center">
+[![typing](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=2600&pause=700&color=ffffff&center=true&vCenter=true&width=900&height=44&lines=Rishi+|+Learning+step+by+step;Python+first+%7C+weird+langs+for+fun)](https://git.io/typing-svg)
 
-</p>
+---
 
-[![typing](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono\&size=22\&duration=2600\&pause=700\&color=ffffff\&center=true\&vCenter=true\&width=900\&height=44\&lines=Rishi+|+Learning+step+by+step;Python+first+%7C+weird+langs+for+fun)](https://git.io/typing-svg)
+## Git Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aloneiso&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aloneiso&theme=tokyonight&hide_border=true" height="175" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloneiso&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+
+</div>
 
 ---
 
@@ -23,9 +32,9 @@ I like things that feel clean and fun, not hype.
 
 Right now I use:
 
-* Python for scripts and automation
-* Crystal because it's fast and neat
-* Nim, Zig, Lua — small languages I enjoy exploring
+* Python for scripts and automation  
+* Crystal because it's fast and neat  
+* Nim, Zig, Lua — small languages I enjoy exploring  
 
 I try small projects I can finish and understand later.
 
@@ -81,9 +90,9 @@ I try small projects I can finish and understand later.
 
 ## How I work
 
-* Small, repeatable steps
-* Try things, break them, fix them
-* Keep projects tiny and readable
+* Small, repeatable steps  
+* Try things, break them, fix them  
+* Keep projects tiny and readable  
 
 ## My circle
 
@@ -93,11 +102,9 @@ Real friends: 2 to 5 people. Above that is just noise and distraction. I keep th
 
 ## Links
 
-GitHub: [https://github.com/aloneiso](https://github.com/aloneiso)
-YouTube: [https://www.youtube.com/@isoenthalp](https://www.youtube.com/@isoenthalp)
+GitHub: https://github.com/aloneiso  
+YouTube: https://www.youtube.com/@isoenthalp
 
 <p align="center">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p>
