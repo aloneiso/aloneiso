@@ -45,12 +45,9 @@ Not professional, not trying to look pro. Just improving every week.
 ## Git stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aloneiso/github-stats/master/generated/overview.svg" width="800" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aloneiso/github-stats/master/generated/languages.svg" width="800" />
-</p>
 
 ---
 
