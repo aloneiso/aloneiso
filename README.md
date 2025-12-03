@@ -45,10 +45,23 @@ Not professional, not trying to look pro. Just improving every week.
 ## Git stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/aloneiso?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/aloneiso?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-count/aloneiso?label=Public%20Repos&style=for-the-badge" />
+  <img 
+    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com?user=aloneiso&theme=transparent&hide_border=true"
+  />
 </p>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aloneiso&show_icons=true&theme=transparent&hide_border=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aloneiso&layout=compact&theme=transparent&hide_border=true"
+  />
+</p>
+
 
 
 ---
