@@ -42,25 +42,10 @@ Not professional, not trying to look pro. Just improving every week.
 
 ---
 
-## Git stats
+![](https://github-readme-stats.vercel.app/api?username=aloneiso&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aloneiso&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aloneiso&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-streak-stats.herokuapp.com?user=aloneiso&theme=transparent&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aloneiso&show_icons=true&theme=transparent&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aloneiso&layout=compact&theme=transparent&hide_border=true"
-  />
-</p>
 
 
 
