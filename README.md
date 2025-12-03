@@ -47,16 +47,16 @@ Not professional, not trying to look pro. Just improving every week.
 ## Git stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aloneiso&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
+  <img src="https://streak-stats.demolab.com?user=aloneiso&theme=transparent&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aloneiso&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloneiso&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-github-stats-team.vercel.app/api?username=aloneiso&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats-github-stats-team.vercel.app/api/top-langs/?username=aloneiso&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aloneiso&theme=transparent" width="800" />
+  <img src="https://github-profile-summary-cards-github-team.vercel.app/api/cards/profile-details?username=aloneiso&theme=transparent" width="800" />
 </p>
 
 ---
