@@ -45,7 +45,9 @@ Not professional, not trying to look pro. Just improving every week.
 ## Git stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="800"/>
+  <img src="https://img.shields.io/github/followers/aloneiso?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/aloneiso?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-count/aloneiso?label=Public%20Repos&style=for-the-badge" />
 </p>
 
 
